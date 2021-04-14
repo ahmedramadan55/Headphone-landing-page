@@ -15,7 +15,7 @@ This project is a static HTML page.
 
 ## Instructions
 
-To veiw the page folow the steps
+To view the page folow the steps
 * Download the repository.
 * Open the index.html file.
 
